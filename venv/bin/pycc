@@ -1,0 +1,3 @@
+#!/Users/admin/DeepLearning/ReductionAttribute/venv/bin/python
+from numba.pycc import main
+main()
