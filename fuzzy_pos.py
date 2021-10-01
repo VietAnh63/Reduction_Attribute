@@ -1,7 +1,7 @@
 import numpy as np
 import time
 from numba import jit
-
+import pandas as pd
 
 PATH_FILE = "winequality-red.csv"
 
